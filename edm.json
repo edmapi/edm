@@ -1,0 +1,4 @@
+{
+    "payload": "{\"version\":1,\"update\":true,\"apis\":{\"MKDA\":\"https://m.testapi.dev/api\",\"DKDA\":\"https://d.testapi.dev/api\"}}",
+    "signature": "MEYCIQC3znV44rLnAHaoSZsQP4QZ0fq0KwKrlnluuz7Q/UQ04AIhANtAJKuzMKlmkgSOTll8PKtwAYADLrMQ/lUJnsDBLlI1"
+}
